@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+.card-content{
+	background-color: #dd2c00;
+}
+
 iframe{
 	width: 100%;
 	height: 99vh;
